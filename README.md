@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-# coding-project-template
-=======
-# feedback_form
->>>>>>> f738a47cfbe0424cbc27e0342082d0e572f4a04b
-# Feedback Form Application
 
-This is a simple web-based feedback form application.
+# feedback_form
+
+This is a simple web-based feedback form.
 
 ## 💡 Features
 
