@@ -26,18 +26,6 @@ This is a simple web-based feedback form application.
    - **OK** to submit and see the thank-you note.
    - **Cancel** to edit your input again.
 
-> If the application is already running in the browser, just **refresh the page**.
-
----
-
-This gives a clear overview of what your app does and how to use it.
-
-Once you paste that into your `README.md`, follow these:
-
-```bash
-git add README.md
-git commit -m "Updated README with project description"
-git push -u origin main
 
 
 
